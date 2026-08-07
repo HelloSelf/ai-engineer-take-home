@@ -46,8 +46,8 @@ We're deliberately not telling you where to look: spotting the right moment is p
 what we're assessing.
 
 > **Getting the app:**
-> - iOS: https://apps.apple.com/fr/app/helloself-therapy-coaching/id1515004784
-> - Android: https://play.google.com/store/apps/details?id=com.helloself.mobilemember&hl=en
+> - iOS: https://apps.apple.com/gb/app/helloself-therapy-coaching/id1515004784
+> - Android: https://play.google.com/store/apps/details?id=com.helloself.mobilemember&hl=en_GB
 >
 > Register a new member account in the app to get started.
 
